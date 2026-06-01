@@ -1,0 +1,18 @@
+{
+  "name": "玄机 — 传统占卜",
+  "short_name": "玄机",
+  "description": "梅花易数 · 六爻 · 紫微斗数 · 八字 · 测字",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0b14",
+  "theme_color": "#c9a96e",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%230b0b14' width='100' height='100' rx='20'/><text x='50' y='65' text-anchor='middle' fill='%23c9a96e' font-size='50' font-family='serif'>玄</text></svg>",
+      "sizes": "100x100",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
